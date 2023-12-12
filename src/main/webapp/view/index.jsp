@@ -55,8 +55,8 @@
 		</div>
 		<div class="col-sm-10">
 		 <div class="header_main_5">
-		  <p>(1123) 224 366 <br/>
-             <a href="#">info@organicfarming.com</a></p>
+		  <p>9174219481 <br/>
+             <a href="#">91arunsinghrajput@gmail.com</a></p>
 		 </div>
 		</div>
 	   </div>
