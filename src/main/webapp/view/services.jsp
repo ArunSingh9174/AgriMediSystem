@@ -367,9 +367,9 @@
 	 <div class="footer_2">
 	  <h3>MAURIS MASSA</h3>
 	  <ul>
-	      <li><i class="fa fa-map-marker"></i> Sed Dignissim Lacinia Nunc</li>
-		  <li><i class="fa fa-phone"></i> Phone: +1 (2) 345 6789</li>
-		  <li><i class="fa fa-envelope"></i> <a href="#">info@gmail.com</a></li>
+	      <li><i class="fa fa-map-marker"></i> 777/9 Nehru Nager Indore</li>
+		  <li><i class="fa fa-phone"></i> Mob: +91 9174219481</li>
+		  <li><i class="fa fa-envelope"></i> <a href="#">91arunsinghrajput@gmail.com</a></li>
 	  </ul>
 	 </div>
 	</div>
@@ -405,7 +405,7 @@
 <section id="footer_main" class="clearfix">
  <div class="col-sm-12">
    <div class="footer_main_1">
-    <p>© 2013 Your Website Name. All Rights Reserved. Design by<a href="http://www.TemplateOnWeb.com"> Template On Web</a></p>
+    <p>© 2023 Your Website Name. All Rights Reserved. Design Arun<a href="http://www.TemplateOnWeb.com"></a></p>
    </div>
  </div>
 </section>
